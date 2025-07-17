@@ -2,8 +2,8 @@
 right looking back at this code i'm realising a certain pattern
 i may or may not have known of how pointers worked so and so
 absoloute armies of if statements were used. 
-as someone who now knows c++ and has actually worked on applications
-for others to use in a team, this hurts to look at, but at least i'm better now.
+as someone who now knows c++ and has actually worked on applications,
+this hurts to look at.
 ALSO DAMN HOW DID I HAVE THE PATIENCE TO WRITE SO MANY IF STATEMENTS?
 """
 
